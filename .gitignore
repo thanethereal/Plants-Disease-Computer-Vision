@@ -1,0 +1,6 @@
+__pycache__
+/.stestr
+settings.json
+venv
+data/train
+data/valid
